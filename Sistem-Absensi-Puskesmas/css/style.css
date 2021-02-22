@@ -1,0 +1,24 @@
+/* .navbar-brand {
+    margin-left: 10%;
+} */
+
+.card {
+    width: 18rem;
+}
+
+.card-img-top {
+    width: 15rem;
+}
+
+body {
+    background: #aaaaaa;
+    background-image: url(../img/grey_wall.png);
+}
+
+hr {
+    border: 1px solid;
+}
+
+.rounded-corner {
+    border-radius: 62px;
+}
